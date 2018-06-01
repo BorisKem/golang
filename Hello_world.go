@@ -5,5 +5,5 @@ import "fmt"
 func main() {
 	fmt.Println("Hello World!")
 	fmt.Println("Test commit")
-	fmt.Println("Test 3")
+	fmt.Println("Test 1")
 }
